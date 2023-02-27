@@ -1,0 +1,12 @@
+{
+  "files": {
+    "main.js": "/basic-registration-form-react/static/js/main.f4779ec5.js",
+    "static/js/787.1492afa1.chunk.js": "/basic-registration-form-react/static/js/787.1492afa1.chunk.js",
+    "index.html": "/basic-registration-form-react/index.html",
+    "main.f4779ec5.js.map": "/basic-registration-form-react/static/js/main.f4779ec5.js.map",
+    "787.1492afa1.chunk.js.map": "/basic-registration-form-react/static/js/787.1492afa1.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/js/main.f4779ec5.js"
+  ]
+}
